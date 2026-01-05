@@ -79,17 +79,23 @@ Evaluation Metrics: Accuracy, Validation Loss
 ▶️ How to Run the Project Locally
 
 1️⃣ Clone the Repository
+
 git clone https://github.com/Thrisha170/skin-cancer-detection-dashboard.git
+
 cd skin-cancer-detection-dashboard
 
 2️⃣ (Optional) Create a Virtual Environment
+
 python -m venv venv
+
 venv\Scripts\activate   # Windows
 
 3️⃣ Install Required Packages
+
 pip install tensorflow streamlit pillow numpy matplotlib fpdf
 
 4️⃣ Run the Streamlit App
+
 streamlit run dashboard.py
 
 
