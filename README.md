@@ -77,6 +77,7 @@ Optimizer: Adam
 Evaluation Metrics: Accuracy, Validation Loss
 
 ▶️ How to Run the Project Locally
+
 1️⃣ Clone the Repository
 git clone https://github.com/Thrisha170/skin-cancer-detection-dashboard.git
 cd skin-cancer-detection-dashboard
@@ -129,7 +130,7 @@ It is not a medical diagnostic tool and should not be used for clinical decision
 
 👩‍💻 Author
 
-Thrisha
+Kamatchiammal T
 GitHub: https://github.com/Thrisha170
 
 🌟 Future Improvements
