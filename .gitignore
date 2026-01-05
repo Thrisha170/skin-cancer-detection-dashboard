@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+venv_tf/
+
+# Model & generated files
+*.h5
+*.pdf
+temp_image.jpg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
